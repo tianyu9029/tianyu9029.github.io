@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1 style="display:none;">Tianyu Zhou</h1>
+
 ## 👨‍🎓 Introduction
 
 I'm Tianyu Zhou, a senior undergraduate from Shandong University(SDU). And I will start my Master's research at the TianJin University(TJU) in September 2025.    
