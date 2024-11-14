@@ -8,20 +8,18 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Education"
+    url: /Education/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Honors & awards"
+    url: /Honors & awards/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Publications"
+    url: /Publications/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Competition Projects"
+    url: /Competition Projects/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Talk and Contact"
+    url: /Talk and Contact/
     
-  - title: "Guide"
-    url: /markdown/
