@@ -8,7 +8,7 @@ redirect_from:
 <h1 style="display:none;">Tianyu Zhou</h1>
 
 ## 👨‍🎓 Introduction
-I'm Tianyu Zhou, a senior undergraduate from Shandong University(SDU). And I will start my Master's research at the TianJin University(TJU) in September 2025.    
+I'm Tianyu Zhou, a senior undergraduate from Shandong University(SDU). And I will start my Master's research at the Tianjin University(TJU) in September 2025.    
 My main research interest includes Computer Vision and Deep Learning.  
 Besides, I enjoy reading and collecting books, I'm also a big fan of video games.
 
