@@ -62,19 +62,15 @@
   @include breakpoint($large) {
     position: relative;
     float: right;
-    width: 15%;
+    width: $right-sidebar-width-narrow;
     margin-left: span(0.5 of 12);
     z-index: 10;
   }
-/* $right-sidebar-width-narrow
-   $right-sidebar-width
-   */
+
   @include breakpoint($x-large) {
-    width:   20%;
+    width: $right-sidebar-width;
   }
 }
-
-
 
 /*
    Author profile and links
