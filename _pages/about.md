@@ -1,11 +1,13 @@
 ---
 permalink: /
+
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# 
+<h1 style="display:none;">Welcome to My World</h1>
+
 ## 👨‍🎓 Introduction
 I'm Tianyu Zhou, a senior undergraduate from Shandong University(SDU). And I will start my Master's research at the TianJin University(TJU) in September 2025.    
 My main research interest includes Computer Vision and Deep Learning.  
