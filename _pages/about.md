@@ -14,7 +14,7 @@ Besides, I enjoy reading and collecting books, I'm also a big fan of video games
 
 ### 📖Education
 
-**Tianjin University(future)**
+**Tianjin University(future)**   
 M.E. in Electronic and Information Engineering ------ Sep.2025-Jul.2028    
 **Shandong University(now)**   
 B.E. in Communication Engineering --------------------Sep.2021-Jul.2025    
