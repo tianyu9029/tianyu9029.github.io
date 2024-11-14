@@ -5,8 +5,12 @@ layout: compress
 {% include base_path %}
 
 <!doctype html>
+
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
+
+    <title>{{ page.title | escape }}</title>
+    
     {% include head.html %}
     {% include head/custom.html %}
   </head>
