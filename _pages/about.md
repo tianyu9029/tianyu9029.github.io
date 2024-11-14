@@ -27,7 +27,7 @@ B.E. in Communication Engineering --------------------Sep.2021-Jul.2025
 Not yet😢
 
 ### 🏆Competition Projects
-+ First Prize of 18th National University Student Smart Car Competition(5G Autonomous Driving Group, National runner-up🥈), Zhijian Li, Zhang Yu, **Tianyu Zhou**, Yanmao He, Yuesheng Liu,  Dec.2023, Chongqing, China
++ First Prize of 18th National University Student Smart Car Competition(5G Autonomous Driving Group, National runner-up🥈), Dec.2023, Chongqing, China
 + Provincial First Prize of The 2024 National Undergraduate Electronics Design Contest, Aug.2024, Shandong,China
 
 ### 💬Talk and Contact
