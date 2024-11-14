@@ -21,12 +21,12 @@ repository               : "tianyu9029/tianyu9029.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_photo_white_converted.png"
   name             : "Tianyu Zhou"
   pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "ShanDong,china"
-  employer         : "ShanDong University"
+  employer         : # "Shandong University"
   uri              : # URL
   email            : "tianyu9029@163.com" 
 
